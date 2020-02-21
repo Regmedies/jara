@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">JARA</string>
+    <string name="logout_button">Logout Button</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="forget_password">Forget password</string>
+    <string name="join_now">Join now</string>
+    <string name="already_have_an_account_longin">Already have an account? Longin</string>
+    <string name="find_discover_and_buy_any_thing_on_line">Find, discover, and buy any thing on line</string>
+    <string name="todouui">TODOuui</string>
+</resources>

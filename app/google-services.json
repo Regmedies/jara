@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1058330472325",
+    "firebase_url": "https://jara-58ad1.firebaseio.com",
+    "project_id": "jara-58ad1",
+    "storage_bucket": "jara-58ad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058330472325:android:2ef7d6ec49ea3fcb",
+        "android_client_info": {
+          "package_name": "com.example.jara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058330472325-h7vdd32b46iv4342m6h4e741eh4f263q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jara",
+            "certificate_hash": "ad5893abe1ea4a90c9a74e4a13f193dbef4f840c"
+          }
+        },
+        {
+          "client_id": "1058330472325-81vj0jb33pnb998n1ruastm7sj149d2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6LS1OwReWARQhEvPI-3GCII5BZdJchbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058330472325-81vj0jb33pnb998n1ruastm7sj149d2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
